@@ -1,5 +1,6 @@
 {
   "name": "@szk213/sample-npm-lib",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
